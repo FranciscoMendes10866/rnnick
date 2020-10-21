@@ -13,13 +13,13 @@ cd vue-app
 Second step:
 
 ```bash
-docker build -t vuedockernginx:production .
+docker build -t rnnick:latest .
 ```
 
 Third step:
 
 ```bash
-docker run -d -p 80:80 vuedockernginx:production
+docker run -d -p 80:80 rnnick:latest
 ```
 
 Fourth step:
