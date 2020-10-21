@@ -22,6 +22,12 @@ Third step:
 docker run -d -p 80:80 vuedockernginx:production
 ```
 
+Fourth step:
+
+```bash
+http://localhost:80
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
